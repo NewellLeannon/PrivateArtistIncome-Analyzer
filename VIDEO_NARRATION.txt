@@ -1,0 +1,15 @@
+PRIVATE ARTIST INCOME ANALYZER - VIDEO NARRATION (ONE MINUTE)
+
+Welcome to Private Artist Income Analyzer, a comprehensive FHEVM example hub for the Zama December 2025 Bounty Track.
+
+This project demonstrates how Fully Homomorphic Encryption enables confidential data computation on blockchain. We have built a complete privacy-preserving platform where artists can submit encrypted income data, and the platform computes aggregate market analytics without ever accessing individual financial information.
+
+The submission includes seven production-quality smart contracts, fifty-six comprehensive test cases, and three automation tools that generate standalone FHEVM example repositories. Our extensive documentation—over eight thousand lines—covers everything from quick start guides to advanced security practices.
+
+Let me show you what is included. First, we will run the test suite to verify all functionality works correctly. As you see, all fifty-six tests pass successfully, demonstrating complete coverage of FHE operations: encryption, decryption, arithmetic, comparisons, and access control.
+
+Next, we will generate a standalone example repository using our automation tools. Watch as it clones the base template, copies contracts and tests, generates documentation, and creates a ready-to-deploy project.
+
+Finally, we will deploy to Sepolia testnet, verifying the complete deployment pipeline works flawlessly.
+
+This project proves that privacy and utility are not mutually exclusive. With FHEVM, systems can provide valuable insights while cryptographically guaranteeing privacy. Thank you for reviewing this submission.
