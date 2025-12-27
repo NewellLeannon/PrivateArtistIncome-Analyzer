@@ -1,0 +1,25 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "[solidity]": {
+    "editor.defaultFormatter": "nomicfoundation.hardhat-solidity"
+  },
+  "eslint.validate": ["javascript", "typescript"],
+  "eslint.format.enable": true,
+  "files.exclude": {
+    "node_modules": true,
+    ".git": true,
+    "artifacts": true,
+    "cache": true,
+    "coverage": true,
+    "fhevmTemp": true,
+    "dist": true
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
